@@ -20,7 +20,7 @@ You can draw digits (0–9) on the canvas, and the AI model will predict them in
 2. Draw any digit (0–9) on the canvas  
 3. Click **Predict** → The AI will show its best guess  
 ## 🛣️Preview
-![Demo Screenshot](./demo.png)
+![Demo Screenshot](./handwritten_digit_recognizer.png)
 ## 📂 Project Structure
 ```
 📁 digit-recognizer
