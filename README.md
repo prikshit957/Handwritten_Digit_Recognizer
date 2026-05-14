@@ -45,5 +45,4 @@ You can draw digits (0–9) on the canvas, and the AI model will predict them in
 - Support more advanced handwriting datasets  
 
 ## 📷 Connect with me
-- Instagram: [@prikshit.957](https://instagram.com/prikshit.957)  
-- LinkedIn: [Your LinkedIn Profile]  
+- Instagram: [@prikshit.957](https://instagram.com/prikshit.957)
